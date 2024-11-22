@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analytics and Machine Learning which should eventually replicate human thinking.
 - 🌱 I’m currently learning SQL and Python (Pandas)
 - 💞️ I’m looking to collaborate on Data analytics projects.
-- 📫 You can reach me @ vgeek@proton.me
+- 📫 You can reach me @ kattamuri1506@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
