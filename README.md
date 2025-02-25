@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TrueVinci
+- 👋 Hi, I’m @Hemanth Kattamuri
 - 👀 I’m interested in Data analytics and Machine Learning which should eventually replicate human thinking.
 - 🌱 I’m currently learning SQL and Python (Pandas)
 - 💞️ I’m looking to collaborate on Data analytics projects.
